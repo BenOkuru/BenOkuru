@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenOkuru
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on anything about front-end developing
+- 💞️ I’m looking to collaborate on...I'm not looking to collaborate for now🥴
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: form Madagascar
